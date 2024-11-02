@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Estilo para el botón */
+#btn-generar {
+    background-color: #4CAF50; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 10px 20px; /* Espaciado */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    border-radius: 5px; /* Bordes redondeados */
+    margin-top: 20px; /* Espaciado superior */
+}
+
+#btn-generar:hover {
+    background-color: #45a049; /* Color de fondo al pasar el cursor */
+}
+
+/* Estilo para el contenedor de frases */
+#footer {
+    margin-top: 20px; /* Espaciado superior */
+    font-size: 18px; /* Tamaño de fuente */
+    text-align: center; /* Centrar texto */
+    color: #555; /* Color del texto */
+}
